@@ -49,3 +49,8 @@ path.join(process.cwd(), "src/generated/prisma/libquery_engine-darwin-arm64.dyli
  * 
  */
 export type User = Prisma.UserModel
+/**
+ * Model Todo
+ * 
+ */
+export type Todo = Prisma.TodoModel
